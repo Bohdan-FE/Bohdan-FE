@@ -9,7 +9,8 @@ I am a highly motivated front-end developer passionate about creating visually a
 * 🌍  I'm based in Dnipro/Kyiv
 * ✉️  You can contact me at [bohdanvivchar@gmail.com](mailto:bohdanvivchar@gmail.com)
 
-### Skills
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
 ### Frontend  

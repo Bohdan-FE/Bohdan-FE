@@ -6,7 +6,7 @@ I am a Front-End developer
 
 I am a highly motivated front-end developer passionate about creating visually appealing web pages and applications. Enthusiastic problem-solver who thrives on challenges and is not afraid to tackle complex projects.
 
-* 🌍  I'm based in Kosice/Roznava, Slovak
+* 🌍  I'm based in Bratislava
 * ✉️  You can contact me at [bohdanvivchar@gmail.com](mailto:bohdanvivchar@gmail.com)
 
 <p align="center">
